@@ -1,4 +1,4 @@
-# Webscope Laravel
+# Webscope - Eloquent polymorphic relations
 
 ## After you clone the repo
 
